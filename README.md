@@ -2,6 +2,7 @@
 
 Supplement and source code for paper "Distributionally Robust Image Classifiers for Stroke Diagnosis in Accelerated MRI." https://doi.org/10.1007/978-3-031-43904-9_74
 
+
 Basic environment: 
 
 Python:
@@ -12,10 +13,14 @@ MATLAB:
 
 MATLAB version R2022a; CVX v2.2; SDPT3 v4.0
 
+
 Code:
 
 "data_preprocessing/": for MR image preprocessing and adding perturbations.
 
 "drl/": DRL model training for ViT model.
+
+
+Supplement:
 
 "Supplement.pdf": example parameters for our MRI scanners.
