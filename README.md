@@ -12,4 +12,10 @@ MATLAB:
 
 MATLAB version R2022a; CVX v2.2; SDPT3 v4.0
 
+Code:
 
+"data_preprocessing/": for MR image preprocessing and adding perturbations.
+
+"drl/": DRL model training for ViT model.
+
+"Supplement.pdf": example parameters for our MRI scanners.
